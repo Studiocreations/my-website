@@ -50,7 +50,7 @@ body {
   color: var(--text-color);
   background-color: var(--background-color);
   display: none;
-  background-image: url("./DAM/pexels-photo-255379.jpg");
+  background-image: url("/DAM/pexels-photo-255379.jpg");
 }
 
 body.appear {
